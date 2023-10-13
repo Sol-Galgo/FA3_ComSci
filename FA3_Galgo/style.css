@@ -1,0 +1,41 @@
+body {
+    background-image:url("comscipic2.jpeg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+h1 {
+    text-align: center;
+    justify-content: center;
+    background-color: #87ceeb;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 2px dotted blue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 250px;
+    margin-bottom: 20px;
+    margin-right: auto;
+    margin-left: auto;
+}
+p {
+    text-align: justify;
+    background-color: hsl(265 100% 86%); 
+    font-style: italic;
+    padding: 20px;
+    border-left: 3px dotted black;
+    border-right: 3px dotted black;
+    border-top: 3px dashed black;
+    border-bottom: 3px dashed black;
+    width: 500px;
+    margin-right: auto;
+    margin-left: auto;
+}
+span {
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(255, 95, 31);
+    margin-left: 2px;
+    margin-right: 5px;
+}
